@@ -27,9 +27,9 @@
 # Installation :
 
 
-😈 `git clone https://github.com/lovehacker404/Phishing`
+😈 `git clone https://github.com/CHERVA/standoff2-phishing`
 
-😈 `cd Phishing`
+😈 `cd standoff2-phishing`
 
 😈 `chmod +x BlackMafia.sh ngrok`
 
